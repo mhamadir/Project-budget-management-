@@ -1,0 +1,6 @@
+{
+  "name": "Profit Tracker",
+  "description": "Offline-first PWA to manage business projects, employee pay, and net profits with English and Kurdish support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
